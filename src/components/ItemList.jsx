@@ -1,5 +1,5 @@
 import { Item } from "./item"
 
 export const ItemList = ({items}) =>{
-return items.map((item) => <Item  key= { item.id}item={item}/>)
+return (<div className= "d-flex">{items.map((item) => (<Item  key= { item.id}item={item}/>))}</div> )
 }
