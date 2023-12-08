@@ -5,7 +5,7 @@ export const products = [
     description: "Muy lindos", 
     category: "anteojos", 
     price: 2000, 
-    pictureUrl: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fjustin-rayban.jpg&tbnid=nQCRZNjj0y4GqM&vet=12ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fstyles-ray-ban-sunglasses%2F&docid=NfuIPK9HD14c3M&w=1024&h=700&q=imagen%20de%20raybans&client=firefox-b-d&ved=2ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ" 
+    pictureUrl: "https://www.realmenrealstyle.com/wp-content/uploads/2022/06/justin-rayban.jpg" 
 },
 { 
     id: 2, 
@@ -13,7 +13,7 @@ export const products = [
     description: "Muy lindo",
     category: "autos", 
     price: 3000, 
-    pictureUrl: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fjustin-rayban.jpg&tbnid=nQCRZNjj0y4GqM&vet=12ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fstyles-ray-ban-sunglasses%2F&docid=NfuIPK9HD14c3M&w=1024&h=700&q=imagen%20de%20raybans&client=firefox-b-d&ved=2ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ" 
+    pictureUrl: "https://www.realmenrealstyle.com/wp-content/uploads/2022/06/justin-rayban.jpg" 
 },
 { 
     id: 3, 
@@ -21,6 +21,6 @@ export const products = [
     description: "pistero",
     category: "autos",
     price: 4000, 
-    pictureUrl: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fjustin-rayban.jpg&tbnid=nQCRZNjj0y4GqM&vet=12ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.realmenrealstyle.com%2Fstyles-ray-ban-sunglasses%2F&docid=NfuIPK9HD14c3M&w=1024&h=700&q=imagen%20de%20raybans&client=firefox-b-d&ved=2ahUKEwih7tHv5cGCAxWdsZUCHRFMDvoQMygCegQIARBQ" 
+    pictureUrl: "https://www.realmenrealstyle.com/wp-content/uploads/2022/06/justin-rayban.jpg" 
 }
 ]

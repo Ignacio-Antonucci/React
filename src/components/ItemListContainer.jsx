@@ -6,7 +6,7 @@ import { products } from '../data/products';
 import { ItemList } from "./ItemList";
 import { getFirestore, getDoc, doc } from "firebase/firestore";
 
-//import {getFirestore, getDoc, doc, collection, getDocs,query, where, limit} from "firebase/firestore"
+
 
 export const ItemListContainer = (props)=> {
     
@@ -14,7 +14,6 @@ export const ItemListContainer = (props)=> {
     
     const {id} = useParams()
 
-/**/ 
 useEffect(()=> {
     const db= getFirestore()
     const refDoc= doc(db,"items", "GhKMGSV16yMASOz8E4YM")
@@ -26,7 +25,7 @@ useEffect(()=> {
 
 
 
-useEffect(()=>{
+    useEffect(()=>{
 
         const mypromise = new Promise((resolve,reject) => 
     { 
