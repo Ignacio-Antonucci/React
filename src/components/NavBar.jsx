@@ -17,9 +17,9 @@ export const NavBar = () =>{
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <NavLink to="category/anteojos">Anteojos</NavLink>
-            <NavLink to="category/autos">Autos</NavLink>
-            <NavLink to="">Carrito <CartWidget /></NavLink>
+            <NavLink to="category/remeras">Remeras</NavLink>
+            <NavLink to="category/pantalones">Pantalones</NavLink>
+            <NavLink to="/cart">Carrito <CartWidget /></NavLink>
             <NavDropdown title="Contactenos" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Instagram</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">Facebook </NavDropdown.Item>
